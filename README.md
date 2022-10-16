@@ -1,2 +1,2 @@
 # git tutorial 
-git tutorials will be here 
+git tutorials details will be here 
